@@ -1,3 +1,7 @@
+##2017-04-26 - Release 0.4.2
+###Summary
+Replaced croddy/make with puppet/make
+
 ##2015-01-29 - Release 0.4.1
 ###Summary
 
